@@ -1,0 +1,6 @@
+{
+  "name": "WOOLY",
+  "description": "Offline-first audio transformation and music utility app converting songs to Lo-fi, Reverb, Slowed + Reverb, Vinyl, 3D Surround, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
